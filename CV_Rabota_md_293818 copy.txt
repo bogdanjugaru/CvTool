@@ -1,0 +1,109 @@
+Datele de contact sunt contra cost. Detalii
+aici: https://www.rabota.md/ro/prices/cv
+
+QA Automation Python
+Despre mine
+40 ani
+Masculin
+Chișinău
+
+Preferințe
+Full-time
+
+Limbi
+Română · Fluent
+Rusă · Fluent
+Engleză · Mediu
+Ucraineană · Comunicare
+
+Permis de conducere
+
+I am a dedicated professional passionate about software quality,
+with extensive manual testing and beginner-level automated
+testing experience.
+Throughout my manual testing experience, I have effectively
+used development tools and testing instruments to identify and
+resolve errors, managed error tracking in Jira, assigned tasks,
+and monitored project progress.
+I am proficient in Postman for API testing and understand clientserver architecture and data transfer methods. My knowledge of
+HTML, CSS, and SQL enables me to analyze UI elements and
+execute database queries. I am experienced in GIT for version
+control and writing API specifications in YAML for Swagger.
+In automation testing, I use Python for scripting, with experience
+in frontend testing with Selenium and backend automation with
+the Requests library. My initial knowledge of Docker and GitHub
+Actions helps me set up automated testing environments and
+CI/CD pipelines.
+My goal is to enhance my automation testing skills to become
+proficient in this field.
+
+Experiența profesională
+
+Categoria: A, B
+Cu automobil personal
+
+QA Manual += Automation · Development Aid
+Septembrie 2023 - Prezent · 1 an 1 lună
+Performing manual tests for both front-end and backend to
+ensure product quality. Generating bug reports and actively
+contributing to product quality improvement.
+I touched a bit on Automating of interface tests using Python and
+Selenium. Developing API specifications in YAML for Swagger and
+automating the API with the requests library.
+
+QA Manual · Romark Code
+Februarie 2022 - Iulie 2024 · 2 ani 5 luni
+I helped familiarize the team with the work of the quality test
+engineer and the collective role in improving product quality. In
+addition, I actively participated in team and client meetings.
+Similarly, we conducted product testing using checklists and test
+cases we created, promptly documenting issues identified in bug
+reports and ensuring proper functionality. All these efforts aimed
+to finally deliver a high quality product.
+Pagina 1 din 2
+
+QA Manual · Paynet
+Mai 2021 - Februarie 2022 · 10 luni
+Testing and error documentation of web and mobile applications.
+Project management and collaboration with product owners.
+Creating documentation about the developed and tested
+product.
+
+Expert criminalist · Centrul tehnico-criminalistic și
+expertize judiciare
+Septembrie 2007 - Martie 2016 · 8 ani 6 luni
+Carrying out forensic expertise in the field of:
+- phallus in documents (documents, stamp impressions)
+- dactyloscopy (papillary fingerprint examination)
+- traceology (objects, shoe traces, etc.)
+
+Studii: Superioare
+Academia "Stefan cel Mare si Sfint"
+Absolvit în: 2007
+Facultatea: Jurisprudenta
+Specialitatea: Expert criminalist
+
+Cursuri, training-uri
+Quality Assurance
+Absolvit în 2021
+Organizator: Skill UP, Ukraine
+https://www.sololearn.com/en/profile/26482729
+Absolvit în 2023
+Organizator: Sololearn
+Automation course using Python and Selenium
+Absolvit în 2023
+Organizator: Stepik
+API Test Automation in Python
+Absolvit în 2023
+Organizator: Udemy
+Добрый, добрый Python с Сергеем Балакиревым
+Absolvit în 2024
+Organizator: https://stepik.org/cert/2493089
+
+CV disponibil pe adresa: https://cahul.rabota.md/ru/resume/it/293818
+
+Powered by TCPDF (www.tcpdf.org)
+
+Pagina 2 din 2
+
+

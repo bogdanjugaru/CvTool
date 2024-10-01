@@ -1,0 +1,118 @@
+MG
+
+Datele de contact sunt contra cost. Detalii
+aici: https://www.rabota.md/ro/prices/cv
+
+Front-End Developer
+Despre mine
+
+27 ani
+Masculin
+Chișinău
+
+TOP Competențe
+Full Stack Development · 3
+ani
+
+Preferințe
+Hibrid (Oficiu/Acasă)
+În locația angajatorului
+Remote
+
+Limbi
+Română · Fluent
+Rusă · Mediu
+Engleză · Comunicare
+
+Competențe
+ReactJS
+JQuery
+PHP
+Syntactically Awesome Style
+Sheets (SASS)
+Express.js
+Responsive Web Design
+Mobile Application
+Development
+Redux
+Full Stack Development
+Research and analytical skills
+
+Despre mine I am a skilled Front-End developer with over 3 years
+of experience in crafting responsive and dynamic web
+applications. My expertise lies in harnessing the power of
+JavaScript to bring web projects to life, and I'm proficient in using
+cutting-edge frameworks like React and jQuery, as well as
+Vanilla Javascript to deliver outstanding user experiences.
+In addition to my Front-End skills, I have also ventured into Fullstack development, showcasing my passion for creating digital
+solutions. I've engineered Back-End applications using Node.js
+and Express.js along with PHP as well as database management
+with MySQL and MongoDB. This complements my Front-End
+proficiency, enabling me to manage entire projects.
+I also created WebView apps for Google Play using Android
+Studio, further demonstrating my versatility in web and mobile
+application development.
+With a proven track record of successful projects and a
+dedication to staying at the forefront of web development
+trends, I'm excited to bring my expertise to your team. Let's
+work together to turn your web development goals into stunning,
+functional realities.
+
+Experiența profesională
+Full-Stack Developer · Internet Consulting ·
+Chișinău
+Ianuarie 2021 - Prezent · 3 ani 9 luni
+As a seasoned Full Stack Developer, I specialize in full stack
+development using React, Express.js, jQuery, and PHP, with
+extensive experience in MongoDB, MySQL, UI/UX design, Mobile
+App Development, CMS integration, responsive web design, and
+API integration.
+I've delivered diverse projects, including a feature-rich online
+Belot card game, where I implemented jQuery and React for the
+frontend, created custom UI components, and integrated
+complex animations. Additionally, I developed a full-stack app for
+generating verifiable random numbers for online card games
+using React, Express.js, and MongoDB.
+In mobile development, I created a utility notification app
+deployed on Google Play, utilizing React, PHP, and MySQL. I also
+modernized a weather website, refactoring legacy PHP code and
+implementing responsive design.
+My work includes government websites for Moldova, such as a
+Consumer Protection Site and Cultural Goods Registry, where I
+Pagina 1 din 2
+
+MySQL
+MongoDB
+
+Permis de conducere
+Categoria: B
+Cu automobil personal
+
+managed frontend development, CMS integration, and backend
+connectivity. I led the development of an e-learning platform,
+enhancing CMS functionality and backend systems.
+I've also contributed to various corporate and news websites,
+including a React-based company site with a custom CMS, as
+well as refactoring a national news portal for responsiveness.
+Competențe: Full Stack Development
+
+Domeniul dorit
+IT, Tech
+
+Studii: Superioare
+Universitatea Babes-Bolyai, Cluj-Napoca
+Absolvit în: 2021
+Facultatea: Teologie Ortodoxa
+Specialitatea: Masterat - Bioetica, morala si deontologie
+Universitatea Babes-Bolyai, Cluj-Napoca
+Absolvit în: 2019
+Facultatea: Teologie Ortodoxa
+Specialitatea: Licenta - Teologie Pastorala
+
+CV disponibil pe adresa: https://www.rabota.md/ro/resume/it/435247
+
+Powered by TCPDF (www.tcpdf.org)
+
+Pagina 2 din 2
+
+

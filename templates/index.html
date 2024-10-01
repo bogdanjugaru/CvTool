@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<head>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100..900;1,100..900&display=swap" rel="stylesheet">
+
+    <title>CV Review</title>
+
+    <link rel="stylesheet" href="{{ url_for('static', filename='css/index_final.css') }}">
+
+</head>
+<body>
+
+    <div class="container">
+        <div><p class="title">CV Review</p></div>
+        <div><a href="#insights-section"><button class="nav-button">UPLOAD CV</button></a></div>
+    </div>
+
+    <div class = "div-2">
+        <p class = "main-heading">Streamline Your Recruitment Process</p>
+        <p class="subheading">Efficiently analyze CVs and uncover valuable insights into candidates</p>
+    </div>
+    
+    <div class="div-3">
+        <a href="#insights-section">
+            <button class="button-1">GET STARTED</button>
+        </a>
+    </div>
+
+    <!-- CV Upload Section -->
+    <div class="container-2" id="insights-section">
+        <p class="title-2">Ready for your CV Insights?</p>
+        <p class="submit-text">Easily submit your CV to receive personalized insights on the candidate's skills, experience, and compatibility to the job</p>
+        
+        <div class="container-button">
+            <!-- CV Upload Form -->
+            <form action="/upload" method="post" enctype="multipart/form-data">
+                <input type="file" name="file" accept=".pdf,.txt" class="neon-1" required>
+                <button type="submit" class="neon-2">Generate Insights</button>
+            </form>
+        </div>
+
+        <!-- Display Insights if available -->
+        {% if insights %}
+        <div class="insights-container">
+            <p class="title-2">Processed CV Insights</p>
+            <p class="submit-text"><strong>Email:</strong> {{ insights.email }}</p>
+            <p class="submit-text"><strong>Highest Degree:</strong> {{ insights.highest_degree }}</p>
+            <p class="submit-text"><strong>Total Experience:</strong> {{ insights.total_experience_years }} years</p>
+            <p class="submit-text"><strong>Average Job Duration:</strong> {{ insights.average_job_duration_years }} years</p>
+            
+            <!-- Skills Bar Chart -->
+            {% if insights.skills_bar_chart %}
+                <img src="{{ insights.skills_bar_chart }}" alt="Skills Bar Chart">
+            {% endif %}
+            
+            <!-- Experience Pie Chart -->
+            {% if insights.experience_pie_chart %}
+                <img src="{{ insights.experience_pie_chart }}" alt="Experience Pie Chart">
+            {% endif %}
+        </div>
+        {% endif %}
+    </div>
+
+</body>
+</html>
